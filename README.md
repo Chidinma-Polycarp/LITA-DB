@@ -5,6 +5,17 @@ My first projects while learning Data Analysis with the Incubator Hub
 
 ### PROJECT OVERVIEW
 
+### CONTENT
+[PROJECT OVERVIEW](#project-overview)
+
+[DATA SOURCES](#data-sources)
+
+[TOOLS USED](tools-used)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
 ### DATA SOURCES
 
 ### TOOLS USED [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -25,3 +36,10 @@ My first projects while learning Data Analysis with the Incubator Hub
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+### DATA VISUALIZATION
+
+😄
+
+|heading 1|Heading 2| Heading 3|
+|.........|.........|..........|
+|Table 1| Table 2| table 3|
