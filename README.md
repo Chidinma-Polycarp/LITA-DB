@@ -5,8 +5,6 @@ I want to see a change in the Nigerian health sector and nothing drives change l
 
 This repository is geared towards tracking my learning journey and also sharing projects that I have worked on during this time.
 
-### PROJECT TOPIC: ROAD TO BECOMING AN ENTRY LEVEL DATA ANALYST
-
 ### CONTENT
 [PROJECT OVERVIEW](#project-overview)
 
@@ -14,16 +12,13 @@ This repository is geared towards tracking my learning journey and also sharing 
 
 [TOOLS USED](tools-used)
 
-[PROJECTS](#projects)
-
-[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+[PORTFOLIO PROJECTS](#portfolio-projects)
 
 [DATA ANALYSIS](#data-analysis)
 
 [DATA VISUALIZATION](#data-visualization)
 
 ### PROJECT OVERVIEW
-
   
 ### DATA SOURCES
 - Incubator Hub
@@ -39,17 +34,31 @@ This repository is geared towards tracking my learning journey and also sharing 
   
 - GITHUB for portfolio building [Download Here](https://github.com)
 
-### PROJECTS
+### PORTFOLIO PROJECTS
 
-### EXPLORATORY DATA ANALYSIS
+#### ANALYZING A HEALTHCARE DATA SET SAMPLE
+**Code:**
+
+**Goal:** To investigate the pattern of drug prescription by doctors.
+
+**Description:** This project focused on analyzing a health data set gotten from kaggle. It is important to note that due to the sensitivity of Health sector data, this data set was generated using the Python's Faker library to generate a dataset that mirrors the structure and attributes commonly found in healthcare records. This can therefore be used for only learning purposes.
+
+Data cleanin, transformation and visualization  was done by utilizing excel, after which the data set was imported to the SQL Server where it was further querried and manipulated.
+
+**Skills:** Data cleaning, Data analysis, Data manipulation, Data Visualization, DQL, 
+
+**Technology:** Microsoft Excel and SQL Server
 
 ### DATA ANALYSIS
+
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 ### DATA VISUALIZATION
 ![download](https://github.com/user-attachments/assets/17bb085e-f508-4876-96bf-672bf77e1da5)
+
+
 
 
 
