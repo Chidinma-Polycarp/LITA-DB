@@ -21,10 +21,13 @@ This repository is geared towards tracking my learning journey and also sharing 
 ### PROJECT OVERVIEW
   
 ### DATA SOURCES
+---
 - Incubator Hub
 - Kaggle
+  
 
 ### TOOLS USED
+---
 - Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
     1. For data cleaning
     2. Analysis
@@ -33,8 +36,10 @@ This repository is geared towards tracking my learning journey and also sharing 
 - SQL - Structured Querry Language for querrying data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
   
 - GITHUB for portfolio building [Download Here](https://github.com)
+  
 
 ### PORTFOLIO PROJECTS
+---
 
 #### ANALYZING A HEALTHCARE DATA SET SAMPLE
 **Code:**
@@ -50,18 +55,15 @@ Data cleanin, transformation and visualization  was done by utilizing excel, aft
 **Technology:** Microsoft Excel and SQL Server
 
 ### DATA ANALYSIS
+---
+I showed a snippet of some of the codes I used in querrying the dataset in SQL and some excel functions used.
 
 ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 ### DATA VISUALIZATION
-![download](https://github.com/user-attachments/assets/17bb085e-f508-4876-96bf-672bf77e1da5)
+---
+This shows a brief summary of the dashboard created from the dataset gotten from Incubator Hub.
+<img width="658" alt="dashboard" src="https://github.com/user-attachments/assets/b79b60ce-13d8-475a-b5d6-fe1643fa624e">
 
-
-
-
-
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|table 3|
