@@ -3,8 +3,6 @@ My first projects while learning Data Analysis with the Incubator Hub
 
 ### PROJECT TOPIC: ROAD TO BECOMING AN ENTRY LEVEL DATA ANALYST
 
-### PROJECT OVERVIEW
-
 ### CONTENT
 [PROJECT OVERVIEW](#project-overview)
 
@@ -12,20 +10,27 @@ My first projects while learning Data Analysis with the Incubator Hub
 
 [TOOLS USED](tools-used)
 
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
 [DATA ANALYSIS](#data-analysis)
 
 [DATA VISUALIZATION](#data-visualization)
 
+### PROJECT OVERVIEW
+
 ### DATA SOURCES
 
-### TOOLS USED [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
-- Microsoft Excel
+### TOOLS USED
+- Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
     1. For data cleaning
     2. Analysis
     3. Visualization
     
-- SQL - Structured Querry Language for querrying data
-- GITHUB for portfolio building
+- SQL - Structured Querry Language for querrying data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+  
+- GITHUB for portfolio building [Download Here](https://github.com)
 
 ### DATA CLEANING AND PREPARATIONS
 
