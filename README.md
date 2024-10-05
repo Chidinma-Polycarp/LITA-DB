@@ -61,8 +61,20 @@ Data cleanin, transformation and visualization  was done by utilizing excel, aft
 I showed a snippet of some of the codes I used in querrying the dataset in SQL and some excel functions used.
 
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+select * from [dbo].[Healthcare Dataset]
+
+select COUNT(Name) as [total number of patients] from [dbo].[Healthcare Dataset]
+
+select COUNT(Name) from [dbo].[Healthcare Dataset]
+where Medical_Condition = 'Asthma'
+
+select count(name) as [Diseases Prevalence], Medical_Condition from [dbo].[Healthcare Dataset]
+group by Medical_Condition
+
+select count(name) as [Blood group Prevalence], Blood_type from [dbo].[Healthcare Dataset]
+group by blood_type
+
+select * from [dbo].[Healthcare Dataset]
 ```
 ### DATA VISUALIZATION
 ---
