@@ -1,7 +1,7 @@
 # CHIDINMA POLYCARP - DATA ANALYST TRAINEE
 Hello, my name is Chidinma and I am a data analyst trainee. I have a Bsc in Human Physiology and I am passionate about the health sector in Nigeria.
 
-I want to see a change in the Nigerian health sector and nothing drives change like well presented and visualized facts drawn from a data set. I hope to become profiecient enough to bring about notable changes in our health sector and I can achieve this my combining my health background with the skill set I would get from data analysis.
+I want to see a change in the Nigerian health sector and nothing drives change like well presented and visualized facts drawn from a data set. I hope to become profiecient enough to bring about notable changes in our health sector and I can achieve this by combining my health background with the skill set I would get from data analysis.
 
 This repository is geared towards tracking my learning journey and also sharing projects that I have worked on during this time.
 
@@ -20,7 +20,7 @@ This repository is geared towards tracking my learning journey and also sharing 
 
 ### PROJECT OVERVIEW
 ---
-  I used different data sets gotten from the Incubator Hub and Kaggle to create different dashboards on excel and also imported the data to SQL where I ran some querries in other to fully understand the data. 
+  I used different data sets gotten from the Incubator Hub and Kaggle to create different dashboards on excel and also imported the data to SQL where I ran some querries in order to fully understand the data. 
   
 ### DATA SOURCES
 ---
@@ -46,7 +46,7 @@ This repository is geared towards tracking my learning journey and also sharing 
 #### ANALYZING A HEALTHCARE DATA SET SAMPLE
 **Code:**[Healthcare Dataset arranged.csv](https://github.com/user-attachments/files/17266003/Healthcare.Dataset.arranged.csv)
 
-**Goal:** To investigate the pattern of drug prescription by doctors.
+**Goal:** To investigate different pattern trends in the health sector.
 
 **Description:** This project focused on analyzing a health data set gotten from kaggle. It is important to note that due to the sensitivity of Health sector data, this data set was generated using the Python's Faker library to generate a dataset that mirrors the structure and attributes commonly found in healthcare records. This can therefore be used for only learning purposes.
 
