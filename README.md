@@ -19,11 +19,13 @@ This repository is geared towards tracking my learning journey and also sharing 
 [DATA VISUALIZATION](#data-visualization)
 
 ### PROJECT OVERVIEW
+---
+  I used different data sets gotten from the Incubator Hub and Kaggle to create different dashboards on excel and also imported the data to SQL where I ran some querries in other to fully understand the data. 
   
 ### DATA SOURCES
 ---
-- Incubator Hub
-- Kaggle
+- Incubator Hub [Visit](https://theincubatorng.org/)
+- Kaggle [Visit](https://www.kaggle.com/)
   
 
 ### TOOLS USED
@@ -66,4 +68,9 @@ WHERE CONDITION = TRUE
 ---
 This shows a brief summary of the dashboard created from the dataset gotten from Incubator Hub.
 <img width="658" alt="dashboard" src="https://github.com/user-attachments/assets/b79b60ce-13d8-475a-b5d6-fe1643fa624e">
+
+This dashboard shows the trends in the health sector
+<img width="925" alt="healthcare dashboard" src="https://github.com/user-attachments/assets/eb15ec94-6f1b-4551-8e9d-462eaf327af9">
+
+
 
