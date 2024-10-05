@@ -44,7 +44,7 @@ This repository is geared towards tracking my learning journey and also sharing 
 ---
 
 #### ANALYZING A HEALTHCARE DATA SET SAMPLE
-**Code:**
+**Code:**[Healthcare Dataset arranged.csv](https://github.com/user-attachments/files/17266003/Healthcare.Dataset.arranged.csv)
 
 **Goal:** To investigate the pattern of drug prescription by doctors.
 
